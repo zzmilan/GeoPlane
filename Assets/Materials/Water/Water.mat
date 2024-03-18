@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: -6465566751694194690, guid: 574222e4d42e94c48881b35d7b2da278, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_48d35b93ee79420882bea2f294ebced7: 0.05
+    - Vector1_4e06209697ed4691a4716664b5fa6749: 0.194
+    - Vector1_6c4b27d91b894692809305d598736f90: 6
+    - Vector1_88fec106c3244e499314672ceb872ee5: 350
+    - Vector1_a2ba3a267d464fcd8a44676a6079c8ad: 100
+    - Vector1_b3873ff24bd940949f7476b84f622627: 900
+    - Vector1_e41b6a393de24045a07752c5f95bc651: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors:
+    - Color_36fed6d2932a4e7da7794080a27de893: {r: 0.27843133, g: 0.8039216, b: 1, a: 0}
+    - Color_75881ef8b0d148298bc68bb8f9692cf3: {r: 0.54245263, g: 0.8779874, b: 1, a: 0}
+    - Vector3_249b28c58def4964ad6fa764cc84736d: {r: 0, g: 3.5, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &914354149558832787
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

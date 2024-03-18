@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: a6cc112246cab0c41aa73337e96a22ff
+  - enabled: 1
+    path: Assets/Scenes/menu1.unity
+    guid: 44dbbcc4f5420034cb082676aa46ba93
+  - enabled: 1
+    path: Assets/Scenes/mora.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/nizije.unity
+    guid: 241c8a09e81e9db4fbc74c6760bccbae
+  - enabled: 1
+    path: Assets/Scenes/ostrva.unity
+    guid: c7e45536ee10ffb40ac85ebfa3ca6894
+  - enabled: 1
+    path: Assets/Scenes/ostrvaS.unity
+    guid: ea89db622fee593479d371e917b32cff
+  - enabled: 1
+    path: Assets/Scenes/planine.unity
+    guid: 86086781e61778f45b6772215841a0a7
+  - enabled: 1
+    path: Assets/Scenes/poluostrva.unity
+    guid: 96bc2d10ed219d249bc878e6f0467ef4
+  - enabled: 1
+    path: Assets/Scenes/NT/moraNT.unity
+    guid: bb0a779babc2b3747bf0d8e61df54ba5
+  - enabled: 1
+    path: Assets/Scenes/NT/nizijeNT.unity
+    guid: 2bf328b9bec0c6f48871f64acc92d865
+  - enabled: 1
+    path: Assets/Scenes/NT/ostrvaNT.unity
+    guid: 598f7b3b65050844bb079201509687b3
+  - enabled: 1
+    path: Assets/Scenes/NT/ostrvaSNT.unity
+    guid: 2b699a6c763f68a4fa2ea02612460e2e
+  - enabled: 1
+    path: Assets/Scenes/NT/planineNT.unity
+    guid: 53c333d03b97ecf4c8508703eed5d7e5
+  - enabled: 1
+    path: Assets/Scenes/NT/poluostrvaNT.unity
+    guid: 5c3eea4d3763ff948aa28647399bcd01
+  m_configObjects: {}
